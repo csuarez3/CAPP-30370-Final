@@ -3,6 +3,12 @@ header {
 	border-bottom: 7px groove #7CC2FF;
 }
 
+body {
+	background-color:#efe4d2;
+	font-family: Tahoma;
+	background-image: url(ice_age.png);
+}
+
 a { text-decoration: none; color:black}
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
@@ -11,7 +17,7 @@ a:hover, a:active { text-decoration: none; }
 
  * {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
     html {width:100%; margin:0; padding:0; font-size:100%;}
-    body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
+    body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em;}
     article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
 
 	@media screen {
