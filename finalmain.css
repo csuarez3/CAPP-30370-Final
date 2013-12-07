@@ -1,0 +1,87 @@
+header {
+	text-align: center;
+	border-bottom: 7px groove #7CC2FF;
+}
+
+a { text-decoration: none; color:black}
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
+
+ * {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
+    html {width:100%; margin:0; padding:0; font-size:100%;}
+    body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
+    article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
+
+	@media screen {
+		.maindesktop {padding:5%; margin:.5%; float:left; width:98%; border: 2px solid #28002E; text-align:center; margin-bottom:2%;}
+		#aboutme {margin-top:4%; background-color: #A1AEE5;}
+		#resume {background-color: #BD9ABF;}
+		#fall2013work {background-color: #9FE5AE;}
+		#aboutme:hover {
+			opacity: .6;
+		}
+		#resume:hover {
+			opacity: .6;
+		}
+		#fall2013work:hover {
+			opacity: .6;
+		}
+	}
+		
+	@media only screen and (min-width:700px) {
+		.maindesktop {padding:5%; margin:.5%; float:left; border: 2px solid #28002E; text-align:center;}
+		#aboutme {margin-right: 1.5%; margin-left: 1.5%; width: 97%; margin-bottom: 2%; margin-top:4%; background-color: #8691BF;}
+		#resume {margin: auto; width: 47%; margin-left:2%; margin-right:1.5%; background-color: ##7E677F;}
+		#fall2013work {margin: auto; width: 47%;; margin-left:1.5%; background-color: #85BF91;}
+		#aboutme:hover {
+			opacity: .6;
+		}
+		#resume:hover {
+			opacity: .6;
+		}
+		#fall2013work:hover {
+			opacity: .6;
+		}	
+	}
+	
+	@media only screen and (min-width:950px) {
+		.maindesktop {padding:5%; float:left; border: 2px solid #28002E; text-align:center;}
+		#aboutme {margin-left: 2%; background-color: blue; -webkit-animation: aboutmecolor 2s ease infinite; -webkit-animation-direction: alternate; width:30%; margin-top:4%;}
+		#resume {margin-right: 2%; -webkit-animation: resumecolor 2s ease infinite; -webkit-animation-direction: alternate; width:30%; margin-top:4%;}
+		#fall2013work {-webkit-animation: fall2013workcolor 2s ease infinite; -webkit-animation-direction: alternate; width:30%; margin-top:4%;}
+		#aboutme:hover {
+			opacity: .6;
+		}
+		#resume:hover {
+			opacity: .6;
+		}
+		#fall2013work:hover {
+			opacity: .6;
+		}
+	}
+
+@-webkit-keyframes aboutmecolor {
+  0% {background-color: #42485E; color: white}
+  25% {background-color:#59617F; color: white}
+  50% {background-color:#8691BF;}
+  75% {background-color:#A1AEE5;}
+  100% {background-color:#B3C2FF;}
+}
+
+@-webkit-keyframes fall2013workcolor {
+  0% {background-color: #4C6E53; color: white}
+  25% {background-color:#587F61; color: white}
+  50% {background-color:#85BF91;}
+  75% {background-color:#9FE5AE;}
+  100% {background-color:#BFFFC4;}
+}
+
+@-webkit-keyframes resumecolor {
+  0% {background-color: #6C586E; color: white}
+  25% {background-color:#7E677F; color: white}
+  50% {background-color:#BD9ABF;}
+  75% {background-color:#E2B9E5;}
+  100% {background-color:#FCCDFF;}
+}
