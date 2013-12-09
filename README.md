@@ -12,9 +12,15 @@ It is responsive.  At screen width 950px, each box is on a continuously looping 
 
 ###About Me
 
+This page has general information about me.  It'll be a typical about me page, not too specific because I also have a resume page.
+
 ###Fall 2013 Work
 
+This page contains all the assignments I have completed in the Fall 2013 semester at the University of Notre Dame thus far.
+
 ###Resume
+
+This page is an online, organized version of my resume.  Each part of the resume will be on a different tab, much like in Web Design Project 18.
 
 Starred Items
 -------------
@@ -27,7 +33,6 @@ Starred Items
 
 ###Page with Three or More Columns
 * Main page on desktop view
-* Tabs on Fall 2013 tablet view
 * Tabs on Resume tablet view
 
 ###CSS Animation on Continuous Loop
