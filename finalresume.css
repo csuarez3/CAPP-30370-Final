@@ -61,6 +61,13 @@ nav li a {
 	box-shadow: 3px 3px #E2B9E5;
 	}
 
+#postkard{
+	float: right;
+	margin-left: .6%;
+	border:6.5px groove #4C6E53;
+	box-shadow: 3px 3px #E2B9E5;
+}
+
 #home {
 	position: fixed; 
 	float: right;
