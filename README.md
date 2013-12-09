@@ -50,3 +50,8 @@ Starred Items
 ###Visual jQuery Interaction
 * Accordion on Fall 2013 Work pages
 * Tab Switching on Resume pages
+
+###Images
+* Image in Community Service tab of Resume
+* Image in About Me
+* Image of a house in the top right corner of every About Me, Fall 2013 Work, and Resume page
