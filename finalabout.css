@@ -51,9 +51,9 @@ body {
 		
 	@media only screen and (min-width:700px) {
 		#seniorpic {
-			margin-right: 3%;
+			margin-left: 3%;
 			width:40%;
-			float:left;
+			float:right;
 			border:6.5px groove #6C586E;
 			box-shadow: 3px 3px #E2B9E5;
 		}
