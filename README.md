@@ -23,6 +23,7 @@ Starred Items
 * Media screen, presumably 500px (mobile)
 * 700px (tablet)
 * 950px (desktop)
+* Subtle changes in colors of borders and image backgrounds at breakpoints in each page
 
 ###Page with Three or More Columns
 * Main page on desktop view
@@ -38,6 +39,8 @@ Starred Items
 * Home button at top right of all pages other than main page lightens on user mouseover (hover)
 
 ###Background Image
+* Background image on every page is from http://subtlepatterns.com/ and is named "Ice Age"
+* Accordion header images on Fall 2013 Work pages correspond to each course
 
 ###Visual jQuery Interaction
 * Accordion on Fall 2013 Work Pages
