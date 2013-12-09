@@ -39,7 +39,6 @@ body {
 
 	@media screen {
 		#seniorpic {
-			margin-right: 3%;
 			width:30%;
 			border:6.5px groove #4C6E53;
 			box-shadow: 3px 3px #85BF91;
@@ -51,7 +50,7 @@ body {
 		
 	@media only screen and (min-width:700px) {
 		#seniorpic {
-			margin-left: 3%;
+			margin-left: .6%;
 			width:40%;
 			float:right;
 			border:6.5px groove #6C586E;
