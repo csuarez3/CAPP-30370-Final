@@ -1,0 +1,74 @@
+header {
+	text-align: center;
+	border-bottom: 7px groove #7CC2FF;
+}
+
+body {
+	background-color:#efe4d2;
+	font-family: Tahoma;
+	background-image: url(ice_age.png);
+}
+
+#aboutme{
+	margin-top:4%;
+	margin-left:2%;
+}
+
+#seniorpic {
+	border-radius:15px;
+	background-color:#FFF9F8;
+	margin: 10px;
+	max-width:100%;
+}
+
+#home {
+	position: fixed; 
+	float: right;
+	top: 0px;
+	right: 0px;
+}
+
+#home:hover{
+			opacity: .3;
+		}
+
+ * {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
+    html {width:100%; margin:0; padding:0; font-size:100%;}
+    body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em;}
+    article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
+
+	@media screen {
+		#seniorpic {
+			margin-right: 3%;
+			width:30%;
+			border:6.5px groove #4C6E53;
+			box-shadow: 3px 3px #85BF91;
+			display: block;
+   			margin-left: auto;
+    		margin-right: auto;
+		}
+	}
+		
+	@media only screen and (min-width:700px) {
+		#seniorpic {
+			margin-right: 3%;
+			width:40%;
+			float:left;
+			border:6.5px groove #6C586E;
+			box-shadow: 3px 3px #E2B9E5;
+		}
+	}
+	
+	@media only screen and (min-width:950px) {
+		#seniorpic {
+			margin-right: 3%;
+			width:28%;
+			float:left;
+			border:6.5px groove #59617F;
+			box-shadow: 3px 3px #A1AEE5;
+		}
+		#seniorpic:hover {
+			-webkit-transform: scale(2);
+			transition:all 1s ease-in-out;
+		}
+	}

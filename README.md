@@ -34,6 +34,8 @@ Starred Items
 
 ###CSS Animation on User Interaction
 * Boxes on main page on desktop view lighten on user mouseover (hover)
+* Image on About Me on desktop scales twice as large on user mouseover (hover)
+* Home button at top right of all pages other than main page lightens on user mouseover (hover)
 
 ###Background Image
 
