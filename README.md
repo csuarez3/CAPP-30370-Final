@@ -20,20 +20,20 @@ Starred Items
 -------------
 
 ###Breakpoints
-*Media screen, presumably 500px (mobile)
-*700px (tablet)
-*950px (desktop)
+* Media screen, presumably 500px (mobile)
+* 700px (tablet)
+* 950px (desktop)
 
 ###Page with Three or More Columns
-*Main page on desktop view
-*Tabs on Fall 2013 tablet view
-*Tabs on Resume tablet view
+* Main page on desktop view
+* Tabs on Fall 2013 tablet view
+* Tabs on Resume tablet view
 
 ###CSS Animation on Continuous Loop
-*Boxes on main page on desktop view each run through five different colors using direction "alternate"
+* Boxes on main page on desktop view each run through five different colors using direction "alternate"
 
 ###CSS Animation on User Interaction
-*Boxes on main page on desktop view lighten on user mouseover (hover)
+* Boxes on main page on desktop view lighten on user mouseover (hover)
 
 ###Background Image
 
