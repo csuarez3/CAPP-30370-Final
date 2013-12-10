@@ -45,7 +45,8 @@ Starred Items
 * Home button at top right of all pages other than main page lightens on user mouseover (hover)
 
 ###Background Image
-* Background image on every page is from http://subtlepatterns.com/ and is named "Ice Age"
+* Background image on Main page is from ShutterStock
+* Background image on every other page is from http://subtlepatterns.com/ and is named "Ice Age"
 * Accordion header images on Fall 2013 Work pages correspond to each course
 
 ###Visual jQuery Interaction

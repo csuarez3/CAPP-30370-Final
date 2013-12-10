@@ -72,7 +72,7 @@ body {
 			box-shadow: 3px 3px #A1AEE5;
 		}
 		#seniorpic:hover {
-			-webkit-transform: scale(2);
+			-webkit-transform: scale(1.3);
 			transition:all 1s ease-in-out;
 		}
 	}
