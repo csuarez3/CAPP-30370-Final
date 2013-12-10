@@ -3,6 +3,11 @@ header {
 	border-bottom: 7px groove #7CC2FF;
 }
 
+.footer{
+	margin-top:5%;
+	border-top: 2px solid grey;
+}
+
 body {
 	background-color:#efe4d2;
 	font-family: Tahoma;
