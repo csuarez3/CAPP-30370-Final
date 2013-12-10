@@ -55,3 +55,6 @@ Starred Items
 * Image in Community Service tab of Resume
 * Image in About Me
 * Image in Experience tab of Resume
+
+###Site Navigation
+* Nav from article/essay to article/essay in Fall 2013 Work
