@@ -37,6 +37,7 @@ Starred Items
 
 ###CSS Animation on Continuous Loop
 * Boxes on main page on desktop view each run through five different colors using direction "alternate"
+* Text within each box on main page on desktop view switch from white to black at certain times
 
 ###CSS Animation on User Interaction
 * Boxes on main page on desktop view lighten on user mouseover (hover)
