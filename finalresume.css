@@ -101,6 +101,8 @@ nav li a {
 	float: right;
 	top: 0px;
 	right: 0px;
+	background-color: #C56057;
+	border-radius:20px;
 }
 
 #home:hover{

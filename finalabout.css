@@ -50,6 +50,8 @@ body {
 	float: right;
 	top: 0px;
 	right: 0px;
+	background-color:#A54761;
+	border-radius:20px;
 }
 
 #home:hover{

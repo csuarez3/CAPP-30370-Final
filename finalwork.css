@@ -7,6 +7,8 @@
 	float: right;
 	top: 0px;
 	right: 0px;
+	background-color:#D1A131;
+	border-radius:20px;
 }
 
 #home:hover{
@@ -15,7 +17,7 @@
 		
 header {
 	text-align: center;
-	border-bottom: 7px groove ##4B390A;
+	border-bottom: 7px groove #4B390A;
 	color: #403414;
 }
 
@@ -52,6 +54,7 @@ body {
 	padding: 1.5%;
 	font-size: 150%;
 	opacity:.7;
+	color:#403414;
 }
 
 .course:hover{
@@ -87,7 +90,8 @@ body {
 
  * {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
     html {width:100%; margin:0; padding:0; font-size:100%;}
-    body {width:100%; margin:0; padding:0; color:#403414; font:1em/1.5em;}
+    body {width:100%; margin:0; padding:0; color:white; font:1em/1.5em;}
+	
     article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
 
 	@media screen{
