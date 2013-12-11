@@ -7,6 +7,7 @@ header {
 .footer{
 	margin-top:5%;
 	color:white;
+	border-top: 2px solid #450017;
 }
 
 a { text-decoration: none; color:white}
@@ -20,6 +21,15 @@ body {
 	font-family: Tahoma;
 	background-image: url(pinkwallpaper.jpg);
 	background-size:100% 100%;
+}
+
+.devicetype{
+	position: fixed;
+	float: left;
+	top:0px;
+	left:0px;
+	color:white;
+	font-size: 1.4em;
 }
 
 #aboutme{
@@ -60,6 +70,15 @@ body {
    			margin-left: auto;
     		margin-right: auto;
 		}
+		#devicetypedesktop {
+			display:none;
+		}
+		#devicetypetablet {
+			display:none;
+		}
+		#devicetypemobile{
+			display:block;
+		}
 	}
 		
 	@media only screen and (min-width:700px) {
@@ -69,6 +88,15 @@ body {
 			float:right;
 			border:6.5px groove #6C586E;
 			box-shadow: 3px 3px #E2B9E5;
+		}
+		#devicetypedesktop {
+			display:none;
+		}
+		#devicetypemobile {
+			display:none;
+		}
+		#devicetypetablet {
+			display:block;
 		}
 	}
 	
@@ -83,5 +111,14 @@ body {
 		#seniorpic:hover {
 			-webkit-transform: scale(1.3);
 			transition:all 1s ease-in-out;
+		}
+		#devicetypemobile {
+			display:none;
+		}
+		#devicetypetablet {
+			display:none;
+		}
+		#devicetypedesktop {
+			display:block;
 		}
 	}

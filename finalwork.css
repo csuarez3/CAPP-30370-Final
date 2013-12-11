@@ -15,13 +15,22 @@
 		
 header {
 	text-align: center;
-	border-bottom: 7px groove #7CC2FF;
+	border-bottom: 7px groove ##4B390A;
 	color: #403414;
+}
+
+.devicetype{
+	position: fixed;
+	float: left;
+	top:0px;
+	left:0px;
+	color:white;
+	font-size: 1.4em;
 }
 
 .footer{
 	margin-top:5%;
-	border-top: 2px solid grey;
+	border-top: 2px solid #4B390A;
 	color:white;
 }
 
@@ -95,6 +104,15 @@ body {
 			margin-left: auto;
 			width: 90%;
 		}
+		#devicetypedesktop {
+			display:none;
+		}
+		#devicetypetablet {
+			display:none;
+		}
+		#devicetypemobile{
+			display:block;
+		}
 	}
 		
 	@media only screen and (min-width:700px) {
@@ -105,6 +123,15 @@ body {
 		.accordion{
 			width:100%;
 		}
+		#devicetypedesktop {
+			display:none;
+		}
+		#devicetypemobile {
+			display:none;
+		}
+		#devicetypetablet {
+			display:block;
+		}
 	}
 	
 	@media only screen and (min-width:950px) {
@@ -114,5 +141,14 @@ body {
 		}
 		.accordion{
 			width:100%;
+		}
+		#devicetypemobile {
+			display:none;
+		}
+		#devicetypetablet {
+			display:none;
+		}
+		#devicetypedesktop {
+			display:block;
 		}
 	}

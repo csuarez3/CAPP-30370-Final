@@ -30,6 +30,7 @@ Starred Items
 * 700px (tablet)
 * 950px (desktop)
 * Subtle changes in colors of borders and image backgrounds/positions at breakpoints in each page
+* Media screen type (desktop, tablet, mobile) will be indicated in the top-left corner
 
 ###Page with Three or More Columns
 * Main page on desktop view
