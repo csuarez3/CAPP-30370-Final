@@ -1,22 +1,31 @@
 header {
 	text-align: center;
-	border-bottom: 7px groove #7CC2FF;
+	border-bottom: 7px groove #400023;
+	color: #450017;
 }
 
 .footer{
 	margin-top:5%;
-	border-top: 2px solid grey;
+	color:white;
 }
+
+a { text-decoration: none; color:white}
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
 
 body {
 	background-color:#efe4d2;
 	font-family: Tahoma;
-	background-image: url(ice_age.png);
+	background-image: url(pinkwallpaper.jpg);
+	background-size:100% 100%;
 }
 
 #aboutme{
 	margin-top:4%;
 	margin-left:2%;
+	margin-right: 2%;
 }
 
 #seniorpic {
@@ -39,7 +48,7 @@ body {
 
  * {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
     html {width:100%; margin:0; padding:0; font-size:100%;}
-    body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em;}
+    body {width:100%; margin:0; padding:0; color:#450017; font:1em/1.5em;}
     article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
 
 	@media screen {

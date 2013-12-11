@@ -1,17 +1,31 @@
 header {
 	text-align: center;
 	border-bottom: 7px groove #7CC2FF;
+	margin-top: 1.5%;
+	color:#300705;
 }
 
 .footer{
 	margin-top:5%;
 	border-top: 2px solid grey;
+	color:white;
 }
+
+.tabs-sections{
+	background:rgb(54, 25, 25);
+}
+
+a { text-decoration: none; color:#FFF6E6}
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
 
 body {
 	background-color:#efe4d2;
 	font-family: Tahoma;
-	background-image: url(ice_age.png);
+	background-image: url(redwallpaper.jpg);
+	background-size:100% 100%;
 }
 
 html {
@@ -86,7 +100,7 @@ nav li a {
 
  * {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
     html {width:100%; margin:0; padding:0; font-size:100%;}
-    body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em;}
+    body {width:100%; margin:0; padding:0; color:#FFF6E6; font:1em/1.5em;}
     article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
 
 	@media screen {
@@ -94,7 +108,7 @@ nav li a {
 			background-color:#4C6E53;
 		}
 		h3 {
-			color:#105901;
+			color:##FFF6E6;
 			}
 	}
 		
@@ -103,7 +117,7 @@ nav li a {
 			background-color:#6C586E;
 		}
 		h3 {
-			color: #4E0352;
+			color: ##FFF6E6;
 		}
 	}
 	
@@ -112,6 +126,6 @@ nav li a {
 			background-color:#59617F;
 		}
 		h3 {
-			color: #01345C;
+			color: ##FFF6E6;
 		}
 	}

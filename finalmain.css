@@ -84,11 +84,11 @@ a:hover, a:active { text-decoration: none; }
 }
 
 @-webkit-keyframes fall2013workcolor {
-  0% {background-color: #5C6363;}
-  25% {background-color:#5C6363;}
-  50% {background-color:#68706F;}
-  75% {background-color:#68706F;}
-  100% {background-color:#767F7F;}
+  0% {background-color: #B56300;}
+  25% {background-color:#B56300;}
+  50% {background-color:#E5AC01;}
+  75% {background-color:#E5AC01;}
+  100% {background-color:##FFD050;}
 }
 
 @-webkit-keyframes resumecolor {
