@@ -37,11 +37,10 @@ Starred Items
 * Tabs on Resume tablet view
 
 ###CSS Animation on Continuous Loop
-* Boxes on main page on desktop view each run through five different colors using direction "alternate"
-* Text within each box on main page on desktop view switch from white to black at certain times
+* Boxes on main page on desktop view each run through different colors using direction "alternate"
 
 ###CSS Animation on User Interaction
-* Boxes on main page on desktop view darken on user mouseover (hover)
+* Opacity of boxes on main page on desktop view  gets higher on user mouseover (hover)
 * Image on About Me on desktop scales twice as large on user mouseover (hover)
 * Home button at top right of all pages other than main page lightens on user mouseover (hover)
 
