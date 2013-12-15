@@ -12,7 +12,7 @@ It is responsive.  At screen width 950px, each box is on a continuously looping 
 
 ###About Me
 
-This page has general information about me.  It'll be a typical about me page, not too specific because I also have a resume page.
+This page should have general information about me.  It'll be a typical about me page, not too specific because I also have a resume page.  In reality, however, it is just lorem ipsum because I did not have time to actually write an About Me.  Instead, I have been matching over 40 poems to their authors and years only to realize that I could not actually match them to themselves.  Enjoy my agony and frustration with my poetry final, much akin to that of waiting for the next season of Sherlock (just one more month!)
 
 ###Fall 2013 Work
 
